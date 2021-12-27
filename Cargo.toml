@@ -2,7 +2,7 @@
 name = "list_set"
 version = "0.2.0"
 authors = ["LambdaXymox <lambda.xymox@gmail.com>"]
-edition = "2018"
+edition = "2021"
 description = """\
     A crate that provides a data structure for compactly storing multiple \ 
     linked lists with O(1) allocations in adjacency list-based scene graphs \
