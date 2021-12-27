@@ -1,0 +1,10 @@
+*.log
+/target
+**/*.rs.bk
+*.iml
+.idea
+assets/rusted_iron2/albedo.png
+assets/rusted_iron2/metallic.png
+assets/rusted_iron2/normal.png
+assets/rusted_iron2/roughness.png
+vec_list/target/
